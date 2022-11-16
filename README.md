@@ -1,12 +1,12 @@
 # RomanNumbers
 Transforming decimals into Roman Numbers with tests.
 
-#Author
+# Author
 Ashley Moreno. 1096192
 Tendencies in App Development. 
 
-#Test
+# Test
 To execute test use: jest
 
-#Program
+# Program
 To execute program use: node {name of the file}
